@@ -1,0 +1,14 @@
+D:\Visual\CountryFunction.Domain\bin\Debug\net6.0\CountryFunction.Domain.deps.json
+D:\Visual\CountryFunction.Domain\bin\Debug\net6.0\CountryFunction.Domain.runtimeconfig.json
+D:\Visual\CountryFunction.Domain\bin\Debug\net6.0\CountryFunction.Domain.dll
+D:\Visual\CountryFunction.Domain\bin\Debug\net6.0\CountryFunction.Domain.pdb
+D:\Visual\CountryFunction.Domain\obj\Debug\net6.0\CountryFunction.Domain.csproj.AssemblyReference.cache
+D:\Visual\CountryFunction.Domain\obj\Debug\net6.0\CountryFunction.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\CountryFunction.Domain\obj\Debug\net6.0\CountryFunction.Domain.AssemblyInfoInputs.cache
+D:\Visual\CountryFunction.Domain\obj\Debug\net6.0\CountryFunction.Domain.AssemblyInfo.cs
+D:\Visual\CountryFunction.Domain\obj\Debug\net6.0\CountryFunction.Domain.csproj.CoreCompileInputs.cache
+D:\Visual\CountryFunction.Domain\obj\Debug\net6.0\CountryFunction.Domain.dll
+D:\Visual\CountryFunction.Domain\obj\Debug\net6.0\refint\CountryFunction.Domain.dll
+D:\Visual\CountryFunction.Domain\obj\Debug\net6.0\CountryFunction.Domain.pdb
+D:\Visual\CountryFunction.Domain\obj\Debug\net6.0\CountryFunction.Domain.genruntimeconfig.cache
+D:\Visual\CountryFunction.Domain\obj\Debug\net6.0\ref\CountryFunction.Domain.dll

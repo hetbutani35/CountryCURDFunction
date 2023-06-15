@@ -1,0 +1,17 @@
+D:\Visual\CountryFunction.DataAccess\bin\Debug\net6.0\CountryFunction.DataAccess.deps.json
+D:\Visual\CountryFunction.DataAccess\bin\Debug\net6.0\CountryFunction.DataAccess.runtimeconfig.json
+D:\Visual\CountryFunction.DataAccess\bin\Debug\net6.0\CountryFunction.DataAccess.dll
+D:\Visual\CountryFunction.DataAccess\bin\Debug\net6.0\CountryFunction.DataAccess.pdb
+D:\Visual\CountryFunction.DataAccess\bin\Debug\net6.0\CountryFunction.Domain.dll
+D:\Visual\CountryFunction.DataAccess\bin\Debug\net6.0\CountryFunction.Domain.pdb
+D:\Visual\CountryFunction.DataAccess\obj\Debug\net6.0\CountryFunction.DataAccess.csproj.AssemblyReference.cache
+D:\Visual\CountryFunction.DataAccess\obj\Debug\net6.0\CountryFunction.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\CountryFunction.DataAccess\obj\Debug\net6.0\CountryFunction.DataAccess.AssemblyInfoInputs.cache
+D:\Visual\CountryFunction.DataAccess\obj\Debug\net6.0\CountryFunction.DataAccess.AssemblyInfo.cs
+D:\Visual\CountryFunction.DataAccess\obj\Debug\net6.0\CountryFunction.DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual\CountryFunction.DataAccess\obj\Debug\net6.0\CountryFunction.DataAccess.csproj.CopyComplete
+D:\Visual\CountryFunction.DataAccess\obj\Debug\net6.0\CountryFunction.DataAccess.dll
+D:\Visual\CountryFunction.DataAccess\obj\Debug\net6.0\refint\CountryFunction.DataAccess.dll
+D:\Visual\CountryFunction.DataAccess\obj\Debug\net6.0\CountryFunction.DataAccess.pdb
+D:\Visual\CountryFunction.DataAccess\obj\Debug\net6.0\CountryFunction.DataAccess.genruntimeconfig.cache
+D:\Visual\CountryFunction.DataAccess\obj\Debug\net6.0\ref\CountryFunction.DataAccess.dll
